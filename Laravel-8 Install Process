@@ -1,0 +1,7 @@
+composer Download & Install.
+composer create-project laravel/laravel (project_name)
+composer require laravel/ui
+php artisan ui bootstrap --auth
+NPM Install
+NPM Run Dev
+php artisan migrate
